@@ -4,7 +4,7 @@ description: "say hello with actions"
 
 runs:
   using: "node12"
-  main: "bread.js"
+  main: "main.js"
 
 inputs:
   first-greeting:
